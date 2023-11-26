@@ -1,6 +1,6 @@
 # Events
 
-A collection of assertions for go testing
+A collection of assertions for Go testing.
 
 ## Available assertions
 
